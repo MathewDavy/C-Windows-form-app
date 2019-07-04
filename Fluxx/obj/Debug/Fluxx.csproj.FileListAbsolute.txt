@@ -1,0 +1,90 @@
+C:\Users\Mat\Documents\COMPX102\Fluxx\Fluxx\bin\Debug\Fluxx.exe.config
+C:\Users\Mat\Documents\COMPX102\Fluxx\Fluxx\bin\Debug\Fluxx.exe
+C:\Users\Mat\Documents\COMPX102\Fluxx\Fluxx\bin\Debug\Fluxx.pdb
+C:\Users\Mat\Documents\COMPX102\Fluxx\Fluxx\obj\Debug\Fluxx.csprojResolveAssemblyReference.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx\Fluxx\obj\Debug\Fluxx.Form1.resources
+C:\Users\Mat\Documents\COMPX102\Fluxx\Fluxx\obj\Debug\Fluxx.Properties.Resources.resources
+C:\Users\Mat\Documents\COMPX102\Fluxx\Fluxx\obj\Debug\Fluxx.csproj.GenerateResource.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx\Fluxx\obj\Debug\Fluxx.csproj.CoreCompileInputs.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx\Fluxx\obj\Debug\Fluxx.exe
+C:\Users\Mat\Documents\COMPX102\Fluxx\Fluxx\obj\Debug\Fluxx.pdb
+C:\Users\Mat\Documents\COMPX102\Fluxx - Attempt Bitmap\Fluxx\bin\Debug\Fluxx.exe.config
+C:\Users\Mat\Documents\COMPX102\Fluxx - Attempt Bitmap\Fluxx\bin\Debug\Fluxx.exe
+C:\Users\Mat\Documents\COMPX102\Fluxx - Attempt Bitmap\Fluxx\bin\Debug\Fluxx.pdb
+C:\Users\Mat\Documents\COMPX102\Fluxx - Attempt Bitmap\Fluxx\obj\Debug\Fluxx.csprojResolveAssemblyReference.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx - Attempt Bitmap\Fluxx\obj\Debug\Fluxx.Form1.resources
+C:\Users\Mat\Documents\COMPX102\Fluxx - Attempt Bitmap\Fluxx\obj\Debug\Fluxx.Properties.Resources.resources
+C:\Users\Mat\Documents\COMPX102\Fluxx - Attempt Bitmap\Fluxx\obj\Debug\Fluxx.csproj.GenerateResource.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx - Attempt Bitmap\Fluxx\obj\Debug\Fluxx.csproj.CoreCompileInputs.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx - Attempt Bitmap\Fluxx\obj\Debug\Fluxx.exe
+C:\Users\Mat\Documents\COMPX102\Fluxx - Attempt Bitmap\Fluxx\obj\Debug\Fluxx.pdb
+C:\Users\Mat\Documents\COMPX102\Fluxx - Rule classes\Fluxx\bin\Debug\Fluxx.exe.config
+C:\Users\Mat\Documents\COMPX102\Fluxx - Rule classes\Fluxx\bin\Debug\Fluxx.exe
+C:\Users\Mat\Documents\COMPX102\Fluxx - Rule classes\Fluxx\bin\Debug\Fluxx.pdb
+C:\Users\Mat\Documents\COMPX102\Fluxx - Rule classes\Fluxx\obj\Debug\Fluxx.csprojResolveAssemblyReference.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx - Rule classes\Fluxx\obj\Debug\Fluxx.Form1.resources
+C:\Users\Mat\Documents\COMPX102\Fluxx - Rule classes\Fluxx\obj\Debug\Fluxx.Properties.Resources.resources
+C:\Users\Mat\Documents\COMPX102\Fluxx - Rule classes\Fluxx\obj\Debug\Fluxx.csproj.GenerateResource.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx - Rule classes\Fluxx\obj\Debug\Fluxx.csproj.CoreCompileInputs.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx - Rule classes\Fluxx\obj\Debug\Fluxx.exe
+C:\Users\Mat\Documents\COMPX102\Fluxx - Rule classes\Fluxx\obj\Debug\Fluxx.pdb
+C:\Users\Mat\Documents\COMPX102\Fluxx - Goal class\Fluxx\bin\Debug\Fluxx.exe.config
+C:\Users\Mat\Documents\COMPX102\Fluxx - Goal class\Fluxx\bin\Debug\Fluxx.exe
+C:\Users\Mat\Documents\COMPX102\Fluxx - Goal class\Fluxx\bin\Debug\Fluxx.pdb
+C:\Users\Mat\Documents\COMPX102\Fluxx - Goal class\Fluxx\obj\Debug\Fluxx.csprojResolveAssemblyReference.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx - Goal class\Fluxx\obj\Debug\Fluxx.Form1.resources
+C:\Users\Mat\Documents\COMPX102\Fluxx - Goal class\Fluxx\obj\Debug\Fluxx.Properties.Resources.resources
+C:\Users\Mat\Documents\COMPX102\Fluxx - Goal class\Fluxx\obj\Debug\Fluxx.csproj.GenerateResource.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx - Goal class\Fluxx\obj\Debug\Fluxx.csproj.CoreCompileInputs.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx - Goal class\Fluxx\obj\Debug\Fluxx.exe
+C:\Users\Mat\Documents\COMPX102\Fluxx - Goal class\Fluxx\obj\Debug\Fluxx.pdb
+C:\Users\Mat\Documents\COMPX102\Fluxx - Rule Refactor\Fluxx\obj\Debug\Fluxx.csprojResolveAssemblyReference.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx - Rule Refactor\Fluxx\obj\Debug\Fluxx.Form1.resources
+C:\Users\Mat\Documents\COMPX102\Fluxx - Rule Refactor\Fluxx\obj\Debug\Fluxx.Properties.Resources.resources
+C:\Users\Mat\Documents\COMPX102\Fluxx - Rule Refactor\Fluxx\obj\Debug\Fluxx.csproj.GenerateResource.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx - Rule Refactor\Fluxx\obj\Debug\Fluxx.csproj.CoreCompileInputs.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx - Rule Refactor\Fluxx\obj\Debug\Fluxx.exe
+C:\Users\Mat\Documents\COMPX102\Fluxx - Rule Refactor\Fluxx\obj\Debug\Fluxx.pdb
+C:\Users\Mat\Documents\COMPX102\Fluxx - Rule Refactor\Fluxx\bin\Debug\Fluxx.exe.config
+C:\Users\Mat\Documents\COMPX102\Fluxx - Rule Refactor\Fluxx\bin\Debug\Fluxx.exe
+C:\Users\Mat\Documents\COMPX102\Fluxx - Rule Refactor\Fluxx\bin\Debug\Fluxx.pdb
+C:\Users\Mat\Documents\COMPX102\Fluxx - Add Computer\Fluxx\bin\Debug\Fluxx.exe.config
+C:\Users\Mat\Documents\COMPX102\Fluxx - Add Computer\Fluxx\bin\Debug\Fluxx.exe
+C:\Users\Mat\Documents\COMPX102\Fluxx - Add Computer\Fluxx\bin\Debug\Fluxx.pdb
+C:\Users\Mat\Documents\COMPX102\Fluxx - Add Computer\Fluxx\obj\Debug\Fluxx.csprojResolveAssemblyReference.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx - Add Computer\Fluxx\obj\Debug\Fluxx.Form1.resources
+C:\Users\Mat\Documents\COMPX102\Fluxx - Add Computer\Fluxx\obj\Debug\Fluxx.Properties.Resources.resources
+C:\Users\Mat\Documents\COMPX102\Fluxx - Add Computer\Fluxx\obj\Debug\Fluxx.csproj.GenerateResource.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx - Add Computer\Fluxx\obj\Debug\Fluxx.csproj.CoreCompileInputs.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx - Add Computer\Fluxx\obj\Debug\Fluxx.exe
+C:\Users\Mat\Documents\COMPX102\Fluxx - Add Computer\Fluxx\obj\Debug\Fluxx.pdb
+C:\Users\Mat\Documents\COMPX102\Fluxx - Name Refactor\Fluxx\bin\Debug\Fluxx.exe.config
+C:\Users\Mat\Documents\COMPX102\Fluxx - Name Refactor\Fluxx\bin\Debug\Fluxx.exe
+C:\Users\Mat\Documents\COMPX102\Fluxx - Name Refactor\Fluxx\bin\Debug\Fluxx.pdb
+C:\Users\Mat\Documents\COMPX102\Fluxx - Name Refactor\Fluxx\obj\Debug\Fluxx.csprojResolveAssemblyReference.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx - Name Refactor\Fluxx\obj\Debug\Fluxx.Form1.resources
+C:\Users\Mat\Documents\COMPX102\Fluxx - Name Refactor\Fluxx\obj\Debug\Fluxx.Properties.Resources.resources
+C:\Users\Mat\Documents\COMPX102\Fluxx - Name Refactor\Fluxx\obj\Debug\Fluxx.csproj.GenerateResource.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx - Name Refactor\Fluxx\obj\Debug\Fluxx.csproj.CoreCompileInputs.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx - Name Refactor\Fluxx\obj\Debug\Fluxx.exe
+C:\Users\Mat\Documents\COMPX102\Fluxx - Name Refactor\Fluxx\obj\Debug\Fluxx.pdb
+C:\Users\Mat\Documents\COMPX102\Fluxx - Smart Comp\Fluxx\bin\Debug\Fluxx.exe.config
+C:\Users\Mat\Documents\COMPX102\Fluxx - Smart Comp\Fluxx\bin\Debug\Fluxx.exe
+C:\Users\Mat\Documents\COMPX102\Fluxx - Smart Comp\Fluxx\bin\Debug\Fluxx.pdb
+C:\Users\Mat\Documents\COMPX102\Fluxx - Smart Comp\Fluxx\obj\Debug\Fluxx.csprojResolveAssemblyReference.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx - Smart Comp\Fluxx\obj\Debug\Fluxx.Form1.resources
+C:\Users\Mat\Documents\COMPX102\Fluxx - Smart Comp\Fluxx\obj\Debug\Fluxx.Properties.Resources.resources
+C:\Users\Mat\Documents\COMPX102\Fluxx - Smart Comp\Fluxx\obj\Debug\Fluxx.csproj.GenerateResource.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx - Smart Comp\Fluxx\obj\Debug\Fluxx.csproj.CoreCompileInputs.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx - Smart Comp\Fluxx\obj\Debug\Fluxx.exe
+C:\Users\Mat\Documents\COMPX102\Fluxx - Smart Comp\Fluxx\obj\Debug\Fluxx.pdb
+C:\Users\Mat\Documents\COMPX102\Fluxx - Final Perhaps\Fluxx\bin\Debug\Fluxx.exe.config
+C:\Users\Mat\Documents\COMPX102\Fluxx - Final Perhaps\Fluxx\bin\Debug\Fluxx.exe
+C:\Users\Mat\Documents\COMPX102\Fluxx - Final Perhaps\Fluxx\bin\Debug\Fluxx.pdb
+C:\Users\Mat\Documents\COMPX102\Fluxx - Final Perhaps\Fluxx\obj\Debug\Fluxx.Form1.resources
+C:\Users\Mat\Documents\COMPX102\Fluxx - Final Perhaps\Fluxx\obj\Debug\Fluxx.Properties.Resources.resources
+C:\Users\Mat\Documents\COMPX102\Fluxx - Final Perhaps\Fluxx\obj\Debug\Fluxx.csproj.GenerateResource.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx - Final Perhaps\Fluxx\obj\Debug\Fluxx.csproj.CoreCompileInputs.cache
+C:\Users\Mat\Documents\COMPX102\Fluxx - Final Perhaps\Fluxx\obj\Debug\Fluxx.exe
+C:\Users\Mat\Documents\COMPX102\Fluxx - Final Perhaps\Fluxx\obj\Debug\Fluxx.pdb
+C:\Users\Mat\Documents\COMPX102\Fluxx - Final Perhaps\Fluxx\obj\Debug\Fluxx.csprojAssemblyReference.cache
